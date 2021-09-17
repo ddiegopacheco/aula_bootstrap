@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #7B7B7B;
+}
+
+.quem-somos {
+    background-color: #d8d8d8
+    ;
+}
+
+.parceiros {
+    background-color: red;
+}
+
+.serviços {
+    background-color: purple;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.rodape {
+    font-size: small;
+    color: white;
+    background-color: black;
+}
